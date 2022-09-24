@@ -31,7 +31,7 @@ public class PineApplePizza extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_pepperoni_pizza);
+        setContentView(R.layout.activity_pine_apple_pizza);
 
         //
         tenCadCounter =findViewById(R.id.textView23);
